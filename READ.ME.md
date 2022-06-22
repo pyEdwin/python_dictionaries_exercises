@@ -2,4 +2,5 @@
 
 <h3>Python Dictionaries to DataFrame Exercises(7-8)</h3>
 
-<h3>CSV to DataFrame Exercises()</h3>>
+<h3>CSV to DataFrame Exercises(9-10)</h3>
+<h3>Square  Brackets(11-12)</h3>
